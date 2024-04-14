@@ -1,6 +1,6 @@
 {
   "name": "formatted",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "rawCountries.js",
   "scripts": {
     "start": "npm run build",
